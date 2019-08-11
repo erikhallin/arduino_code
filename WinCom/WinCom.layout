@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="SerialClass.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="3915" topLine="44" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="314" topLine="3" />
+	</File>
+</CodeBlocks_layout_file>

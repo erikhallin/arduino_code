@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1368132651 source:c:\erikprogram\arduino\wincom\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"SerialClass.h"
+	<string>
+
+1368132324 c:\erikprogram\arduino\wincom\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1368132296 source:c:\erikprogram\arduino\wincom\serialclass.cpp
+	"SerialClass.h"
+
